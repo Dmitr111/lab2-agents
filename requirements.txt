@@ -1,0 +1,16 @@
+# Версии взяты из .venv (pip freeze). Здесь только прямые зависимости кода,
+# остальное pip подтянет сам.
+langgraph==1.2.15
+langgraph-checkpoint==4.3.0
+langgraph-checkpoint-sqlite==3.1.2
+langchain-core==1.6.11
+langchain-ollama==1.1.0
+langchain-mcp-adapters==0.3.2
+mcp==1.30.0
+a2a-sdk[http-server]==1.2.3
+qdrant-client==1.19.1
+httpx==0.28.1
+beautifulsoup4==4.15.0
+pydantic==2.14.1
+starlette==1.8.0
+uvicorn==0.54.0
